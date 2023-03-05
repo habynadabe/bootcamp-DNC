@@ -1,0 +1,9 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#principal {
+    width: 100%;
+    background-color: #303030;
+}
